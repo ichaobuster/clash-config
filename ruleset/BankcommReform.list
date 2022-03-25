@@ -1,5 +1,6 @@
 # reform网络屏蔽地址
-DOMAIN-SUFFIX,ximalaya.com
-DOMAIN-SUFFIX,xmcdn.com
 DOMAIN-SUFFIX,gcores.com
 DOMAIN-SUFFIX,qtfm.cn
+DOMAIN-SUFFIX,xiaoyuzhoufm.com
+DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,xmcdn.com
