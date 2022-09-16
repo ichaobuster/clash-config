@@ -1,4 +1,5 @@
 # reform网络屏蔽地址
+DOMAIN,cdn.beekka.com
 DOMAIN,cdn.vistopia.com.cn
 DOMAIN-SUFFIX,gcores.com
 DOMAIN-SUFFIX,juejin.cn
