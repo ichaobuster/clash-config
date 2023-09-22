@@ -1,0 +1,5 @@
+#!name=全局MitM
+#!desc=使用*.0解密所有地址
+
+[MITM]
+hostname = *.0
