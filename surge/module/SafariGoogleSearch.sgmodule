@@ -1,0 +1,8 @@
+#!name=Google搜索重定向
+#!desc=将Safari默认Google搜索的地址google.cn或g.cn重定向到google.com
+
+[URL Rewrite]
+^https?://(www.)?(g|google).cn https://www.google.com 302
+
+[MITM]
+hostname = %APPEND% www.google.cn
