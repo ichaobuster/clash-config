@@ -1,0 +1,8 @@
+#!name=AbemaTV去除区域限制
+#!desc=AbemaTV去除区域限制
+
+[URL Rewrite]
+^(http|https):\/\/api\.abema\.io\/v\d\/ip\/check - reject
+
+[MITM]
+hostname = %APPEND% api.abema.io
