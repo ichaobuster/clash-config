@@ -1,4 +1,5 @@
 # Emby需要代理的地址
 DOMAIN,emby.renzhe.work
 DOMAIN,p.theatre.renzhe.cloud
-DOMAIN,pornemby.club
+# 其他
+DOMAIN-SUFFIX,hanime1.me
