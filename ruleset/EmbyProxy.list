@@ -1,5 +1,6 @@
 # Emby需要代理的地址
 DOMAIN,emby.renzhe.work
 DOMAIN,p.theatre.renzhe.cloud
+DOMAIN-SUFFIX,medi4.org
 # 其他
 DOMAIN-SUFFIX,hanime1.me
