@@ -1,6 +1,7 @@
 # Emby可以直连的地址
 DOMAIN,emby.bangumi.ca
 DOMAIN,media.nijigem.by
+DOMAIN,CT.cdn.bgp.yt
 #DOMAIN,embyplus.org
 DOMAIN,emby3.029902.xyz
 #DOMAIN,nanflix.net
