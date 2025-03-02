@@ -1,0 +1,13 @@
+# Emby需要代理的地址
+DOMAIN-SUFFIX,medi4.org
+DOMAIN,nanflix.net
+
+# ASMR.ONE
+DOMAIN-SUFFIX,asmr.one
+DOMAIN-SUFFIX,asmr-100.com
+
+# 游戏
+DOMAIN-SUFFIX,nexon.com
+DOMAIN-SUFFIX,nexon.io
+DOMAIN-SUFFIX,nexoncdn.co.kr
+DOMAIN-SUFFIX,nikke-kr.com
