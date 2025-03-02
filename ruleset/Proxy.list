@@ -1,4 +1,5 @@
 # Emby需要代理的地址
+DOMAIN,embyplus.org
 DOMAIN-SUFFIX,medi4.org
 DOMAIN,nanflix.net
 
