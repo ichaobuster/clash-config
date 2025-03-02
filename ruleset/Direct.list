@@ -2,8 +2,12 @@
 DOMAIN,emby.bangumi.ca
 DOMAIN,media.nijigem.by
 DOMAIN,CT.cdn.bgp.yt
-#DOMAIN,embyplus.org
+DOMAIN,embyplus.org
 DOMAIN,emby3.029902.xyz
-#DOMAIN,nanflix.net
 DOMAIN,www.tanhuatv.site
-DOMAIN,789.123456.al
+
+# ASMR.ONE
+DOMAIN-SUFFIX,asmr-200.com
+DOMAIN-SUFFIX,asmr-300.com
+
+DOAMIN-SUFFIX,bankcomm.com
